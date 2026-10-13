@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/8ac13e56-808a-40f7-ba3c-fe8ac277a65e
 # MetroWay
 
 > Delhi Metro shortest path finder and fare planner built with Dijkstra's algorithm, featuring a C++ algorithmic engine and a React web interface.
@@ -15,6 +17,9 @@
 <p align="center">
   <img src="demo.gif" alt="MetroWay Demo" width="100%">
 </p>
+
+---
+Video--> Uploading MetroWay.mp4…
 
 ---
 
