@@ -13,10 +13,8 @@
 ## Demo
 
 <p align="center">
-  <video src="metroway.mp4" width="100%" controls></video>
+  <img src="demo.gif" alt="MetroWay Demo" width="100%">
 </p>
-
-If your environment does not play inline video tags, open or download [metroway.mp4](./metroway.mp4).
 
 ---
 
@@ -97,6 +95,7 @@ MetroWay/
 │   ├── App.jsx                # Root React component
 │   ├── index.css              # Custom styles using Geist typography
 │   └── main.jsx               # Vite entry point
+├── demo.gif                 # Animated demo walkthrough
 ├── metroway.mp4               # Demo walkthrough video
 ├── index.html
 ├── package.json
