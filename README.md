@@ -12,12 +12,7 @@
 
 ## Demo
 
-<p align="center">
-  <img src="demo.gif" alt="MetroWay Demo" width="100%">
-</p>
-
----
-Video-->https://github.com/user-attachments/assets/8ac13e56-808a-40f7-ba3c-fe8ac277a65e
+https://github.com/user-attachments/assets/1a7f7ae5-0e23-4345-8648-e279a9c26022
 
 ---
 
